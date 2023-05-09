@@ -3,7 +3,7 @@
 Meu nome é Luiz Antônio Setti
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- EStou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### você pode entrar em contato comigo aqui 📫
